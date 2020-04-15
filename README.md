@@ -6,7 +6,7 @@ Ternary is Java Script Conditional language which used for making logic and cond
 2. finding the advantage of Ternary operator
 
 
-# Advantages of ternary operatr
+# Advantages of ternary operator
 1. it's very easy to use.
 2. very less coding. 
 3. clean codes.
